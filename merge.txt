@@ -7,3 +7,4 @@ master commit 4
 branch
 -------------------------------------
 branch commit 1
+branch commit 2
